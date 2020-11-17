@@ -3,7 +3,7 @@
 # parallel-python
 
 ## 1. Installation
- Jupyter notebook (with all dependencies) is available without any installation at [mybinder.org](https://mybinder.org/v2/gh/AdamWlodarczyk/hello-binder/HEAD)
+ Jupyter notebook (with all dependencies) is available without any installation at [mybinder.org]((https://mybinder.org/v2/gh/AdamWlodarczyk/parallel-python/HEAD)
 
 ### 1.1 Creating a conda environment
 
