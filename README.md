@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdamWlodarczyk/hello-binder/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdamWlodarczyk/parallel-python/HEAD)
 
-# hello-binder
+# parallel-python
 
 ## 1. Installation
  Jupyter notebook (with all dependencies) is available without any installation at [mybinder.org](https://mybinder.org/v2/gh/AdamWlodarczyk/hello-binder/HEAD)
