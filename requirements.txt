@@ -2,3 +2,4 @@ dask[complete]
 requests
 numpy
 pandas
+lxml
